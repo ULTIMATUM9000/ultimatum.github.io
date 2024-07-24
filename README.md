@@ -1,5 +1,5 @@
 ## Hi, I'm Kyle Jesus De Leon.
-I am currently a Game Development Student at iAcademy and I make games in Unity.
+I am a Game Developer Graduate at iAcademy and I make games in Unity.
 My specialty is Programming, and I've been a Lead Programmer in most of our projects during my course.
 
 # These are the games I programmed in various classes and events with my batchmates.
